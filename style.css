@@ -1,0 +1,26 @@
+body{
+    background-color: darkgray;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url(https://frasesdemaloka.com/wp-content/uploads/2022/12/frases-favela-boa-noite-1024x576.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+button{
+    font-size: medium;
+    margin: 0 10px;
+}
+img{
+    border: 3px solid lavender;
+    border-radius: 5%;
+}
+main{
+    color: snow;
+    font-size: larger;
+    padding: 7px;
+    width: 720px;
+    margin: 0 auto;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.103);
+}
